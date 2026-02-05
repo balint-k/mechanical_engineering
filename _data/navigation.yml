@@ -1,4 +1,4 @@
-- name: Home
-  link: /
-- name: Curriculum Alignment
+- name: Curriculum
+  link: /index
+- name: Alignment
   link: /accreditation
