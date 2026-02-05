@@ -1,3 +1,1 @@
-# Mechanical Engineering
-
-## Content
+# Content
