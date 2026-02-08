@@ -1,6 +1,6 @@
 ---
 layout: default
-menu_title: "Alignment"
+title: "Alignment"
 ---
 
 # Summary

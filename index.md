@@ -1,6 +1,6 @@
 ---
 layout: default
-menu_title: "Home"
+title: "Home"
 ---
 # Content
 

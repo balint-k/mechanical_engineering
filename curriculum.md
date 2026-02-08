@@ -1,6 +1,6 @@
 ---
 layout: default
-menu_title: "Curriculum"
+title: "Curriculum"
 ---
 
 # Content
