@@ -1,8 +1,6 @@
 ---
-title: "Home"
+menu_title: "Home"
 ---
 # Content
 
 # Introduction
-
-...

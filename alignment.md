@@ -1,5 +1,5 @@
 ---
-title: "Alignment"
+menu_title: "Alignment"
 ---
 
 # Summary

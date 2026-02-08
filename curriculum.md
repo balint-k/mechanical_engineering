@@ -1,5 +1,5 @@
 ---
-title: "Curriculum"
+menu_title: "Curriculum"
 ---
 
 # Content
