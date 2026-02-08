@@ -1,3 +1,8 @@
 title: Mechanical Engineering
 description: Open-source learning resources for mechanical engineering
 theme: minima
+
+header_pages:
+  - index.md
+  - curriculum.md
+  - alignment.md
