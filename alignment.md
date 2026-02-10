@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Alignment"
-has_toc: true
 ---
 
 # Content
