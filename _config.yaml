@@ -1,6 +1,6 @@
 title: Mechanical Engineering
 description: Open-source learning resources for mechanical engineering
-theme: minimal-mistakes-jekyll
+theme: minima
 
 header_pages:
   - alignment.md
