@@ -6,6 +6,7 @@ title: "Alignment"
 # Content
 - [Structure](#structureS)
 - [Requirements](#requirements)
+- [Course groups](#course-groups)
 
 ## Structure
 
@@ -24,4 +25,19 @@ ABET-EAC [Criteria for Accrediting Engineering Programs (2025 – 2026)](https:/
 The National Council of Examiners for Engineering and Surveying (NCEES) administers the Fundamentals of Engineering (FE) exam, which is a critical step for engineering licensure. The [exam specifications](https://ncees.org/exams/fe-exam/) outline the theoretical and technical topics required for disciplines such as Mechanical, Chemical, or Civil Engineering. This curriculum incorporates these topics .
 
 ## Course groups
+
+The following course groups were clarified to satisfy the requirements mentioned above.
+
+| Syntax            | Description |
+| ------------------| ----------- |
+| Basics            | Title       |
+| Math              | Text        |
+| Mechanics         | Text        |
+| Machinery         | Text        |
+| Materials         | Text        |
+| Fluid dynamics    | Text        |
+| Thermodynamics    | Text        |
+| Control           | Text        |
+
+### Coverage
 
