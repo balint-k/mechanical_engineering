@@ -5,3 +5,6 @@ theme: minima
 header_pages:
   - alignment.md
 
+plugins:
+  - jekyll-last-modified-at
+  - jekyll-sitemap
