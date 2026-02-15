@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Alignment"
+toc: true
 ---
 
 # Content
@@ -8,7 +9,7 @@ title: "Alignment"
 - [Requirements](#requirements)
 - [Course groups](#course-groups)
 
-## Structure
+# Structure
 
 The Curriculum is estabilished the following way:
 
@@ -16,7 +17,7 @@ The Curriculum is estabilished the following way:
 
 This curriculum is derived from two external sources. We used these sources to create detailed, independent course groups. Each course group is covered using open and freely available online courses. Together, these course groups form our complete curriculum.
 
-## Requirements
+# Requirements
 
 This curriculum is designed using two sources:
 
@@ -24,7 +25,7 @@ ABET-EAC [Criteria for Accrediting Engineering Programs (2025 – 2026)](https:/
 
 The National Council of Examiners for Engineering and Surveying (NCEES) administers the Fundamentals of Engineering (FE) exam, which is a critical step for engineering licensure. The [exam specifications](https://ncees.org/exams/fe-exam/) outline the theoretical and technical topics required for disciplines such as Mechanical, Chemical, or Civil Engineering. This curriculum incorporates these topics .
 
-## Course groups
+# Course groups
 
 The following course groups were clarified to satisfy the requirements mentioned above.
 
@@ -39,5 +40,7 @@ The following course groups were clarified to satisfy the requirements mentioned
 | Thermodynamics    | Text        |
 | Control           | Text        |
 
-### Coverage
+## Coverage
+
+
 
