@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ page.title }}</title>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h3>On this page</h3>
+            {% if page.toc %}
+                {{ content | toc_only }}
+            {% endif %}
+        </div>
+        <div class="content">
+            {{ content }}
+        </div>
+    </div>
+</body>
+</html>
