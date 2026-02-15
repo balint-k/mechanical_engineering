@@ -30,16 +30,17 @@ The following course groups were clarified to satisfy the requirements mentioned
 
 | Syntax            | Description |
 | ------------------| ----------- |
-| Basics            | Title       |
-| Math              | Text        |
-| Mechanics         | Text        |
-| Machinery         | Text        |
-| Materials         | Text        |
-| Fluid dynamics    | Text        |
-| Thermodynamics    | Text        |
-| Control           | Text        |
+| Basics            | Description | 
+| Math              | Description |
+| Mechanics         | Description |
+| Machinery         | Description |
+| Materials         | Description |
+| Fluid dynamics    | Description |
+| Thermodynamics    | Description |
+| Control           | Description |
+| Ethics, law       | Description |
 
-## Coverage
+
 
 
 
