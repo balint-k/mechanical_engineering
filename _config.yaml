@@ -5,12 +5,4 @@ theme: minima
 header_pages:
   - alignment.md
 
-plugins:
-  - jekyll-toc
 
-# TOC settings
-toc:
-  min_level: 1      # minimum header level to include (1 for h1)
-  max_level: 3      # maximum header level to include (3 for h3)
-  list_class: toc   # class for the TOC list
-  sublist_class: toc-sub  # class for sublists
