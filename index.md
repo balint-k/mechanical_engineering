@@ -3,15 +3,15 @@ layout: default
 title: "Home"
 ---
 # Content
-- [Introduction](#introduction)
-- [Curriculum](#curriculum)
+- [About](#about)
+- [Community](#community)
+- [Contribution](#contribution)
 
-# Introduction
+# About
 
-# Curriculum
+# Community
 
-## Basics
+# Contribution
 
-| Syntax                 | Description | Link                                                           |
-| ---------------------- | ----------- | -------------------------------------------------------------- |
-| Pre-University physics | Description | [Link](https://ocw.tudelft.nl/courses/pre-university-physics/) |
+
+
