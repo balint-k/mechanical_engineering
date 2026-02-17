@@ -20,7 +20,7 @@ This curriculum is derived from two external sources. We used these sources to c
 
 This curriculum is designed using two sources:
 
-ABET-EAC [Criteria for Accrediting Engineering Programs (2025 – 2026)](https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2025-2026/), established by ABET, a leading accreditor of university programs, sets standards for engineering education through its Engineering Accreditation Commission (EAC). This curriculum aligns with ABET’s criteria.
+ABET-EAC [Criteria for Accrediting Engineering Programs (2025 – 2026)](https://www.abet.org/accreditation/accreditation-criteria/criteria-for-accrediting-engineering-programs-2026-2027/), established by ABET, a leading accreditor of university programs, sets standards for engineering education through its Engineering Accreditation Commission (EAC). This curriculum aligns with ABET’s criteria.
 
 The National Council of Examiners for Engineering and Surveying (NCEES) administers the Fundamentals of Engineering (FE) exam, which is a critical step for engineering licensure. The [exam specifications](https://ncees.org/exams/fe-exam/) outline the theoretical and technical topics required for disciplines such as Mechanical, Chemical, or Civil Engineering. This curriculum incorporates these topics .
 
@@ -28,19 +28,38 @@ The National Council of Examiners for Engineering and Surveying (NCEES) administ
 
 The following course groups were clarified to satisfy the requirements mentioned above.
 
-| Syntax            | Description |
-| ------------------| ----------- |
-| Basics            | Description | 
-| Math              | Description |
-| Mechanics         | Description |
-| Machinery         | Description |
-| Materials         | Description |
-| Fluid dynamics    | Description |
-| Thermodynamics    | Description |
-| Control           | Description |
-| Ethics, law       | Description |
+| Syntax                                | Description |
+| ------------------------------------- | ----------- |
+| Basics                                | Description | 
+| Math                                  | Description |
+| Mechanics                             | Description |
+| Machinery                             | Description |
+| Materials                             | Description |
+| Fluid dynamics                        | Description |
+| Thermodynamics                        | Description |
+| Control                               | Description |
+| Ethics, law and social responsibility | Description |
+| Electrotechnics                       | Description |
 
 
+## Coverage
 
+The topics mentioned in the [requirements](#requirements) part covered by the course the following way.
 
+| [NCEES FE ME Topics ](https://ncees.org/wp-content/uploads/2022/09/FE-Mechanical-CBT-specs.pdf) | Course Group |
+| ------------------------------------------------ | ----------- |
+| 1. Mathematics                                   | Math | 
+| 2. Probability and Statistics                    | Math |
+| 3. Ethics and Professional Practice              | Ethics, law and social responsibility |
+| 4. Engineering Economics                         | Ethics, law and social responsibility |
+| 5. Electricity and Magnetism                     | Electrotechnics |
+| 6. Statics                                       | Mechanics |
+| 7. Dynamics, Kinematics, and Vibrations          | Mechanics |
+| 8. Mechanics of Materials                        | Mechanics |
+| 9. Material Properties and processing            | Materials + Machinery |
+| 10. Fluid Mechanics                              | Fluid dynamics |
+| 11. Thermodynamics                               | Thermodynamics |
+| 12. Heat Transfer                                | Thermodynamics |
+| 13. Measurements, Instrumentation, and Controls  | Control |
+| 14. Mechanical Design and Analysis               | Machinery |
 
