@@ -25,6 +25,9 @@ ABET-EAC [Criteria for Accrediting Engineering Programs (2026 – 2027)](https:/
 
 The National Council of Examiners for Engineering and Surveying (NCEES) administers the Fundamentals of Engineering (FE) exam, which is a critical step for engineering licensure. The [exam specifications](https://ncees.org/exams/fe-exam/) outline the theoretical and technical topics required for disciplines such as Mechanical, Chemical, or Civil Engineering. This curriculum incorporates these topics .
 
+> This curriculum is designed to align with ABET and NCEES standards but is not officially endorsed or affiliated with either organization
+>> This curriculum is intended as a guide for self-learners. It does not guarantee success on the FE exam or ABET accreditation. Users are responsible for verifying the accuracy and completeness of the materials.
+
 # Course groups
 
 The following course groups were clarified to satisfy the requirements mentioned above.
