@@ -1,3 +1,7 @@
+---
+layout: default
+title: "Curriculum"
+---
 # Content
 - [Introduction](#introduction)
 - [Curriculum](#curriculum)
