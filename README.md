@@ -1,35 +1,14 @@
----
-layout: default
-title: "Curriculum"
----
-# Content
-- [Introduction](#introduction)
-- [Curriculum](#curriculum)
+# Mechanican
 
-# Introduction
+You can find the curriculum at [https://balint-k.github.io/mechanical_engineering/](https://balint-k.github.io/mechanical_engineering/)
 
-# Curriculum
+## Content
+- [About](#about)
+- [Community](#community)
+- [Contribution](#contribution)
 
-## Basics
+## About
 
-| Syntax                 | Description | Link                                                           |
-| ---------------------- | ----------- | -------------------------------------------------------------- |
-| Pre-University physics | Description | [Link](https://ocw.tudelft.nl/courses/pre-university-physics/) |
+## Community
 
-## Math
-
-## Mechanics
-
-## Machinery
-
-## Materials
-
-## Fluid dynamics
-
-## Thermodynamics
-
-## Control
-
-## Ethics, law and social responsibility
-
-## Electrotechnics
+## Contribution
