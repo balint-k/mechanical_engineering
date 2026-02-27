@@ -25,7 +25,9 @@ title: "Home"
 | Syntax                 | Description | Link                                                           |
 | ---------------------- | ----------- | -------------------------------------------------------------- |
 | Single variable calculus | Description | [Link](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/) |
-
+| Multivariable calculus | Description | [Link](https://ocw.mit.edu/courses/18-02-multivariable-calculus-fall-2007/) |
+| Differential equations | Description | [Link](https://ocw.mit.edu/courses/18-03-differential-equations-spring-2010/) |
+| Linear algebra | Description | [Link](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) |
 ## Mechanics
 
 ## Machinery
