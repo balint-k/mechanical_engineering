@@ -31,6 +31,10 @@ title: "Home"
 
 ## Mechanics
 
+| Course | Description | Link |
+| ------ | ----------- | ---- |
+| Statics | Description | [Link](https://engineeringstatics.org/)| 
+
 ## Machinery
 
 ## Materials
