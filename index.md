@@ -34,6 +34,8 @@ title: "Home"
 | Course | Description | Link |
 | ------ | ----------- | ---- |
 | Statics | Description | [Link](https://engineeringstatics.org/)| 
+| Strength of Materials | Description | [Link](https://engineeringmechanicsoer.github.io/StrengthBook/) |
+
 
 ## Machinery
 
