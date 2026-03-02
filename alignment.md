@@ -50,6 +50,9 @@ The following course groups were clarified to satisfy the requirements mentioned
 | Specialization                        | Description |
 | ------------------------------------- | ----------- |
 | Manufacturing                         | - | 
+| Modelling                         | - | 
+| Thermal Systems                         | - | 
+| Design                         | - | 
 
 # Coverage
 
@@ -96,4 +99,3 @@ The topics mentioned in the [requirements](#requirements) part covered by the co
 | Curriculum, c (Mechanical and Thermal Systems)  | Description | 
 | Curriculum, d (Advanced Mechanical and Thermal Systems)  | Description | 
 
-Criterion MI5.
