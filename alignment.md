@@ -69,7 +69,7 @@ The topics mentioned in the [requirements](#requirements) part covered by the co
 | 5. Electricity and Magnetism                     | Electrotechnics |
 | 6. Statics                                       | Mechanics |
 | 7. Dynamics, Kinematics, and Vibrations          | Mechanics |
-| 8. Mechanics of Materials                        | Mechanics |
+| 8. Mechanics of Materials                        | Mechanics + Materials |
 | 9. Material Properties and processing            | Materials + Machinery |
 | 10. Fluid Mechanics                              | Fluid dynamics |
 | 11. Thermodynamics                               | Thermodynamics |
