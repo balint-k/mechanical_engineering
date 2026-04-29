@@ -1,4 +1,4 @@
-# Mechanican
+# Mechanicanl Engineering Curriculum
 
 You can find the curriculum at [https://balint-k.github.io/mechanical_engineering/](https://balint-k.github.io/mechanical_engineering/)
 
